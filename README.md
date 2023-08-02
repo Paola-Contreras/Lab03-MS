@@ -8,3 +8,6 @@ Modelación y Simulación
 # PDF con resultados
 [Resultados laboratorio]('./lab3.pdf')
 
+# Cambio de límites integrales
+(Parte 2, task 3)
+[Integrales]('./Integrales.jpeg')
